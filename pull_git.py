@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+# 工作中用来重新部署的脚本
 import subprocess,os
 
 folder = raw_input()

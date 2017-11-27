@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+# 工作中用来监控日志的脚本
 
 import subprocess, os, sys, shlex
 

@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# -*- coding: UTF-8 -*-
+# 多行读取
 
 import time
 

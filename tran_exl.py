@@ -1,4 +1,7 @@
+#!/usr/bin/python
 # -*- coding: UTF-8 -*-
+# 用来导出代码的脚本
+
 import os
 import sys
 

@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+# 这个实例是使用Python的类属性
+
 class Employee:
     empCount = 0
 

@@ -1,4 +1,7 @@
+#!/usr/bin/python
 # -*- coding: UTF-8 -*-
+# 使用subprocess执行shell命令
+
 import subprocess, shlex
 
 command_line = raw_input()
