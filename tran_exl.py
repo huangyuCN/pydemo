@@ -5,10 +5,10 @@
 import os
 import sys
 
-pyDir = "/Works/Development/python/tranExcel/tran.py"
-dstFolder = "/Users/HuangYu/Downloads/tran_exl/conf"
-md5Folder = "/Users/HuangYu/Downloads/tran_exl/md5"
-srcFolder = "/Works/Document/svn/hookheroes/dr3/cfg_dev"
+pyDir = ""
+dstFolder = ""
+md5Folder = ""
+srcFolder = ""
 # srcFolder = "/Users/HuangYu/Downloads/exl"
 clean = ""
 if len(sys.argv) > 1 and sys.argv[1] == "-c":
